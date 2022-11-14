@@ -1,0 +1,54 @@
+/*Navigation*/
+
+
+.navbar-collapse {
+    background-color: white;
+}
+.navbar-brand{
+    margin-left:50px;
+}
+
+.nav-link{
+    font-size: 13px;
+}
+
+/*Games dropdown*/
+#games{
+    width:800px;
+}
+
+/*Logo Divider for Microsoft | Xbox */
+.vr{
+    width:5px;
+    height:25px;
+}
+/*Hero*/
+#hero {
+  
+    display:flex;
+    align-self: center;
+    max-width:100%;
+    background-size: cover;
+    position: relative;
+    margin-top: 60px;
+    background-image: url('assets/images/hero/Hero-SMWX-NBA_1067x600.jpg') ;
+    height: 700px;
+    background-position: center;
+  }
+
+  /*body*/
+  body {
+  background-image: url('assets/images/background/Webpage-Background-Paper.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/*XBOX TEAMS HERO IMAGE*/
+
+#container-width-1{
+    width:100%;
+    padding:60px 0;
+    margin-left: -33.33%;
+    margin-right: -33.33%;
+}
