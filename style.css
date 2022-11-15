@@ -157,4 +157,40 @@
         width: 120px;
         align-content: center;
       }
+      #design_yours_cta{
+        background-color: #9BF00B;
+        width: 128px;
+        align-content: center;
+      }
 
+      #cta_1{
+        width: 120px;
+      }
+      #cta_2{
+        width: 120px;
+      }
+      #cta_3{
+        width: 120px;
+      }
+      #world_of_basket_cta1{
+        background-color: #9BF00B;
+        width: 165px;
+       
+      }
+      #world_of_basket_cta2{
+        background-color: #9BF00B;
+        width: 160px;
+        align-content: center;
+      }
+
+/*MORE WAYS TO SPEND VC*/
+
+#move_items_down{
+    padding-top:60px;
+    }
+    .alignleft {
+        float: left;
+    }
+    .alignright {
+        float: right;
+    }
