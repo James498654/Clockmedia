@@ -136,11 +136,20 @@
     }
       /*Boxshot 2*/
       #boxshot2{background-color:rgb(228, 228, 228);
-        padding-top: 16px;
+        padding-bottom: 24px;
       }
        /*Boxshot 3*/
        #boxshot3{background-color:rgb(228, 228, 228);
-        padding-top: 16px;
+        padding-bottom: 24px;
+      }
+      #boxshot4{background-color:rgb(228, 228, 228);
+        padding-bottom: 24px;
+      }
+      #boxshot5{background-color:rgb(228, 228, 228);
+        padding-bottom: 24px;
+      }
+      #boxshot6{background-color:rgb(228, 228, 228);
+        padding-bottom: 24px;
       }
 
       /*cta buttons*/
