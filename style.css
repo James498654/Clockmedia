@@ -143,6 +143,10 @@
 
       #cta_boxshot1{
         background-color:#9BF00B ;
+        width: 120px;
+      }
+      #cta_boxshot2{
+        width: 200px;
       }
       #cta_los_angeles1{
         background-color: #9BF00B;
@@ -151,5 +155,6 @@
       #cta_los_angeles2{
         background-color: #9BF00B;
         width: 120px;
+        align-content: center;
       }
 
